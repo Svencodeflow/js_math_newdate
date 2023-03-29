@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 10px;
+}
+
+main {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#uhr {
+    height: 20vh;
+    width: 50vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3%;
+    border: 20px solid black;
+}
+
+div {
+    text-align: center;
+}
+
+h2, h1 {
+    font-size: 5rem;
+}
+
+p {
+    font-size: 2rem;
+}
+
+h1 {
+    margin-bottom: 28px;
+}
